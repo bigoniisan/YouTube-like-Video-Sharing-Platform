@@ -1,70 +1,37 @@
-###################
-What is CodeIgniter
-###################
+###############################
+YouTube-like Video Sharing Platform
+###############################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+The YouTube-like Video Sharing Platform is a full-stack web application designed to mimic the core functionality of YouTube for video hosting and sharing. Built using PHP, CodeIgniter, HTML/CSS, jQuery, AJAX, and MySQL, this project showcases the development of a scalable, responsive, and secure web application with an MVC architecture.
 
-*******************
-Release Information
-*******************
+*********
+Key Features
+*********
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+- User Authentication: Secure user registration, login, and profile management.
+- Media Handling: Supports video uploads, storage, and streaming.
+- Dynamic Content Rendering: Responsive and intuitive user interface with dynamic content updates.
+- MVC Architecture: Clean and maintainable code structure using the Model-View-Controller pattern.
+- Optimized Backend: Efficient database queries and server-side performance optimizations.
+- Secure Data Handling: Ensures safe uploads, downloads, and user data management.
 
-**************************
-Changelog and New Features
-**************************
+*********
+Technologies Used
+*********
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+- Frontend: HTML, CSS, jQuery, AJAX
+- Backend: PHP, CodeIgniter
+- Database: MySQL
+- Architecture: MVC (Model-View-Controller)
 
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
+*********
 License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
 *********
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+This project is open-source and available under the MIT License.
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
+*********
 Acknowledgement
-***************
+*********
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+Special thanks to the CodeIgniter community, jQuery contributors, and all open-source projects that made this application possible. Your tools and libraries have been invaluable in building this platform.
